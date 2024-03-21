@@ -1,0 +1,13 @@
+{
+    "id": "OUDUIDUI-waterfallsFlow",
+    "name": "适用多端的瀑布流布局",
+    "version": "1.0.2",
+    "description": "基于uniapp的瀑布流组件，适用于小程序、h5、APP，有效提高了布局速度和减少页面重叠的情况。",
+    "keywords": [
+        "瀑布流",
+        "滚动加载",
+        "下拉刷新",
+        "点击事件",
+        "布局"
+    ]
+}

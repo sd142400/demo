@@ -1,0 +1,28 @@
+<template>
+	<div class="content" :style="{height:statusBarHeight+0+'wx'}">
+	</div>
+</template>
+<script>
+export default {
+	data() {
+		return {
+		};
+	},
+	beforeCreate() {
+	},
+	mounted() {
+	},
+	methods: {
+	}
+};
+</script>
+<style>
+.icon {
+	font-family: iconfont;
+	font-size: 42px;
+}
+.content {
+	background-color: #ffffff;
+	/* flex-direction: column; */
+}
+</style>
